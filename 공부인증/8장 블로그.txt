@@ -1,0 +1,10 @@
+[스프링] 8. Spring Data JPA 활용(JPQL)
+https://velog.io/@pyounani/%EC%8A%A4%ED%94%84%EB%A7%81-8.-Spring-Data-JPA-%ED%99%9C%EC%9A%A9JPQL
+[스프링] 8. Spring Data JPA 활용(쿼리 메서드 살펴보기)
+https://velog.io/@pyounani/%EC%8A%A4%ED%94%84%EB%A7%81-8.-Spring-Data-JPA-%ED%99%9C%EC%9A%A9%EC%BF%BC%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0
+[스프링] 8. Spring Data JPA 활용(정렬과 페이징 처리)
+https://velog.io/@pyounani/%EC%8A%A4%ED%94%84%EB%A7%81-8.-Spring-Data-JPA-%ED%99%9C%EC%9A%A9%EC%A0%95%EB%A0%AC%EA%B3%BC-%ED%8E%98%EC%9D%B4%EC%A7%95-%EC%B2%98%EB%A6%AC
+[스프링] 8. Spring Data JPA 활용(QueryDSL)
+https://velog.io/@pyounani/%EC%8A%A4%ED%94%84%EB%A7%81-8.-Spring-Data-JPA-%ED%99%9C%EC%9A%A9QueryDSL
+[스프링] 8. Spring Data JPA 활용(JPA Auditing 적용하기)
+https://velog.io/@pyounani/%EC%8A%A4%ED%94%84%EB%A7%81-8.-Spring-Data-JPA-%ED%99%9C%EC%9A%A9JPA-Auditing-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0
