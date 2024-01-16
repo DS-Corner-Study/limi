@@ -35,12 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-
-/build.gradle
-/gradlew
-/gradlew.bat
-/settings.gradle
-/src/main/resources/application.properties
-../hello-spring/gradle
-../hello-spring/.idea
-gradle
